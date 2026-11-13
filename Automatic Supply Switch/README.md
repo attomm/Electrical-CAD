@@ -10,7 +10,7 @@ In many homes the grid supply is unreliable and a backup inverter is common. Thi
 
 ## Circuit diagram
 
-![Automatic supply changeover circuit diagram](images/circuit-diagram.png)
+![Automatic supply changeover circuit diagram](Automatic Supply Switch.png)
 
 ## Components
 
